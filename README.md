@@ -1,2 +1,2 @@
 # Lading_Hotel-World
- Projecto from the course of Open Source
+ Project from the course of Open Source
